@@ -1,0 +1,16 @@
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.exe
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.deps.json
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.runtimeconfig.json
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.dll
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\ref\BusinessRegistration.dll
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\bin\Debug\net5.0\BusinessRegistration.pdb
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.dll
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\ref\BusinessRegistration.dll
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.pdb
+C:\Users\sheeh\source\repos\BusinessRegistration\BusinessRegistration\obj\Debug\net5.0\BusinessRegistration.genruntimeconfig.cache
